@@ -275,6 +275,34 @@ textarea::placeholder {
   border-radius: 50%;
   margin:0 5px;
 }
+#follow-me ul.list-inline li:hover {
+  cursor: pointer;
+}
+
+#follow-me ul.list-inline li:nth-of-type(1):hover {
+  background: #4267b2;
+}
+
+#follow-me ul.list-inline li:nth-of-type(2):hover {
+  background: linear-gradient(45deg, #008744, #0057e7, #d62d20, #ffa700);
+}
+
+#follow-me ul.list-inline li:nth-of-type(3):hover {
+  background: #00acee;
+}
+
+#follow-me ul.list-inline li:nth-of-type(4):hover {
+  background: #0e76a8;
+}
+
+#follow-me a {
+  color: #1abc9c;
+}
+
+#follow-me a:hover {
+  color: #1abc9c;
+  text-decoration: none;
+}
 
 #copy {
   background: #2c3e50;
