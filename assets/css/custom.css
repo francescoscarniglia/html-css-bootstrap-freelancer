@@ -284,7 +284,7 @@ textarea::placeholder {
 }
 
 #follow-me ul.list-inline li:nth-of-type(2):hover {
-  background: linear-gradient(45deg, #008744, #0057e7, #d62d20, #ffa700);
+  background: #ff0000;
 }
 
 #follow-me ul.list-inline li:nth-of-type(3):hover {
