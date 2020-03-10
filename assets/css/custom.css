@@ -413,7 +413,9 @@ left: 50%;
 }
 
 @media all and (max-width:768px) {
-  [class^="col-"] {
+  #portfolio,
+  #about,
+  #contact-me {
     padding-top: 50px;
   }
 }
