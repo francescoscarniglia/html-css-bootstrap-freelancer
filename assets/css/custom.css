@@ -1,4 +1,10 @@
 /* GENERAL RULES  */
+body {
+  padding-top: 50px;
+  font-family: sans-serif;
+}
+
+
 h2 {
   font-size: 36px;
   text-transform: uppercase;
